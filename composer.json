@@ -9,6 +9,7 @@
             "email": "benjaminfranzke@gmail.com"
         }
     ],
+    "abandoned": true,
     "conflict": {
         "typo3/cms-about": ">=9",
         "typo3/cms-backend": ">=9",
